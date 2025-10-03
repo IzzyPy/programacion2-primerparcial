@@ -29,4 +29,4 @@ El objetivo es ofrecer a los usuarios una herramienta confiable para mejorar la 
 
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/moneywise.git
+   https://github.com/IzzyPy/programacion2-primerparcial.git
